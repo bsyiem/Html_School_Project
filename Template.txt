@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Dual swords</title>
+</head>
+<body  text = "brown" link = "yellow" alink = "green" vlink = "blue"background = "htmlpics/pics/pix_wallpaper_3d_abstract_009.jpg">
+<table width = 97% bgcolor = "black"><tr><td>
+<p><center><table align = center><tr><td><img src = "htmlpics/pics/w1.jpg"></td><td><img src = "htmlpics/pics/w2.jpg"></td><td><img src = "htmlpics/pics/w3.jpg"></td><td><img src = "htmlpics/pics/w4.jpg"></td></tr><tr><td><img src = "htmlpics/pics/w5.jpg"></td><td><img src = "htmlpics/pics/w6.jpg"></td><td><img src = "htmlpics/pics/w7.jpg"></td><td><img src = "htmlpics/pics/w8.jpg"></td></tr></table></center></p>
+<p align = center><font color = red size = 5>Dual Swords</font></p>
+<p> <table align = center border bordercolor = yellow><tr><th><u>Pros</u></th><th><u>Cons</u></th></tr> 
+
+</td></tr></table>
+</body>
+</html>
